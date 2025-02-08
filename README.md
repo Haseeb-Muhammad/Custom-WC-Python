@@ -65,6 +65,3 @@ No installation is required. Simply download the script and run it using Python.
 git clone https://github.com/yourusername/custom-wc.git
 cd custom-wc
 python custom_wc.py -f example.txt
-
-### Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
